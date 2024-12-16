@@ -1,0 +1,17 @@
+current directory: /Users/italo/designli/vendor/bundle/ruby/3.0.0/gems/nkf-0.2.0/ext/nkf
+/Users/italo/.rbenv/versions/3.0.6/bin/ruby -I /Users/italo/.rbenv/versions/3.0.6/lib/ruby/3.0.0 -r ./siteconf20241211-55346-6g2csn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/italo/designli/vendor/bundle/ruby/3.0.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/italo/designli/vendor/bundle/ruby/3.0.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/italo/designli/vendor/bundle/ruby/3.0.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/opt/homebrew/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20241211-55346-zalgwr

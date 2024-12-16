@@ -1,0 +1,7 @@
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o
+/Users/italo/designli/android/app/.cxx/Debug/y2a1nd3q/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o

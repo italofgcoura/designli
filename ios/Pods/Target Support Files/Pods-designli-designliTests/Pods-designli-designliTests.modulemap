@@ -1,0 +1,6 @@
+module Pods_designli_designliTests {
+  umbrella header "Pods-designli-designliTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

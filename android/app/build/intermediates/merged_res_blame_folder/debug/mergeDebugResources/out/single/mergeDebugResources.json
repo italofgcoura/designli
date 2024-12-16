@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.designli.app-debug-52:/drawable_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.designli.app-main-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.designli.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-mdpi_logogradientthumbnail.png.flat",
+        "source": "com.designli.app-main-54:/drawable-mdpi/logogradientthumbnail.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xhdpi_logogradientthumbnail.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xhdpi/logogradientthumbnail.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-hdpi_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.designli.app-main-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.designli.app-main-54:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-mdpi_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable-mdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.designli.app-main-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xxhdpi_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xxxhdpi_logogradientthumbnail.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xxxhdpi/logogradientthumbnail.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/layout_launch_screen.xml.flat",
+        "source": "com.designli.app-main-54:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xhdpi_launch_screen.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-xxhdpi_logogradientthumbnail.png.flat",
+        "source": "com.designli.app-main-54:/drawable-xxhdpi/logogradientthumbnail.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.designli.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.designli.app-debug-52:/drawable-hdpi_logogradientthumbnail.png.flat",
+        "source": "com.designli.app-main-54:/drawable-hdpi/logogradientthumbnail.png"
+    }
+]

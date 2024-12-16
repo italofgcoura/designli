@@ -1,0 +1,1 @@
+/Users/italo/designli/android/app/build/intermediates/cxx/Debug/y2a1nd3q/obj/arm64-v8a
